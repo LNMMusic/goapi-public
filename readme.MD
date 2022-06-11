@@ -16,3 +16,9 @@
 - API [GoFiber]:
 	- Middlewares [auth]
 	- Services
+
+
+<hr>
+
+## Upcoming Upgrades
+- There will be a future frontend package with components to handle backend connection via JSON Instructions based on the structure of the Backend
