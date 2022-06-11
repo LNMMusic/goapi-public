@@ -5,15 +5,14 @@
 
 *FEATURES*
 
-- Database:	PostgreSQL
-		Redis [auth]
+- Database:
+	- PostgreSQL
+	- Redis [auth]
 
-- Handlers:	DB
-		Auth [jwt]
+- Handlers:
+	- DB
+	- Auth [jwt]
 
-- RESTAPI:	GoFiber
-		- Middlewares [auth]
-		- Services
-
-
-**LAST VERSION IS V5-FINAL BRANCH**
+- API [GoFiber]:
+	- Middlewares [auth]
+	- Services
